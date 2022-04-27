@@ -1,0 +1,8 @@
+[user]
+	name=mariano
+	email=marianotorresleyva@gmail.com
+	username=lvl
+
+[alias]
+	sql = checkout Mysql-developers
+	node= checkout node-developers 
