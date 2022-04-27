@@ -4,5 +4,5 @@
 	username=lvl
 
 [alias]
-	sql = checkout Mysql-developers
-	node= checkout node-developers 
+	sql = checkout mysql-developers
+	node = checkout node-developers 
